@@ -1,7 +1,7 @@
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
 <p align="center">✅<a href="https://andreadcsousa.github.io/alura_webpage_flexbox/"> Veja a Página </a>✅<a href="https://github.com/andreadcsousa"> Meu Perfil </a>✅<a href="https://andreadcsousa.github.io/"> Projetos </a></p>
 
-# Sobre o Projeto
+# Sobre o Curso/Projeto
 
 A partir do curso `Flexbox: Posicione elementos na tela`, aprendi a fazer a página da [Alurinha](https://cursos.alura.com.br/course/posicione-elementos-com-flexbox).
 
