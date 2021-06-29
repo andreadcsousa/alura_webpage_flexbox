@@ -1,21 +1,26 @@
-<p align="center"><img src="./files/img-repo.png" width="600"></p>
-<p align="center">✅<a href="https://andreadcsousa.github.io/alura_webpage_flexbox/"> Veja a Página </a>✅<a href="https://github.com/andreadcsousa"> Meu Perfil </a>✅<a href="https://andreadcsousa.github.io/"> Projetos </a></p>
+<h1 align="center">
+    <img src="./files/logo.jpg" alt="" width="400">
+</h1>
 
-# Sobre o Curso/Projeto
+<p align="center">
+  :white_check_mark: <a href="https://andreadcsousa.github.io/alura_webpage_flexbox/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :white_check_mark: <a href="https://www.alura.com.br/curso-online-posicione-elementos-com-flexbox" target="_blank">Conheça o curso</a>
+</p>
 
-A partir do curso `Flexbox: Posicione elementos na tela`, aprendi a fazer a página da [Alurinha](https://cursos.alura.com.br/course/posicione-elementos-com-flexbox).
+# :computer: Projeto
 
-- Aprenda a famosa especificação flexible box para posicionar seus elementos na página;
-- Entenda as diversas propriedades do flexbox e como usá-las;
-- Entenda como as propriedades do flexbox substituem float, inline e inline-block;
-- Elabore um site responsivo com flexbox.
+- Idealizador: Alura
+- Projeto: Formação Front-End
+- Lado da força: Front-End
+- Tipo: Flexbox - Flexible box
+- Etapa: Posicionando elementos
 
-# Linguagens Utilizadas
+# :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com:
 
 <img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100">
 
-## Alurinha
-
-Aplicando FLEXBOX em uma página web.
+# :art: Layout
 
 <img src="./files/alurinha.jpg" width="100%">
